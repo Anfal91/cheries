@@ -186,13 +186,13 @@ let generateShop =() => {
             <img class="img-fluid w-100" src="${Image}" alt="">
             <div class="product-action">
                 <button id=${id} onclick="increment(${id})" class="btn btn-outline-dark btn-square"><i class="fa fa-shopping-cart"></i></button>
-                <a class="btn btn-outline-dark btn-square" href="${link}"><i class="fa fa-eye"></i></a>
+                
             </div>
         </div>
         <div class="text-center py-4">
             <a class="h6 text-decoration-none text-truncate" href="">${name}</a>
             <div class="d-flex align-items-center justify-content-center mt-2">
-                <h5>$${price}.00</h5><h6 class="text-muted ml-2"><del>$${realPrice}.00</del></h6>
+                <h5>₹${price}.00</h5><h6 class="text-muted ml-2"><del>₹${realPrice}.00</del></h6>
             </div>
             <div class="d-flex align-items-center justify-content-center mb-1">
                 <small class="fa fa-star text-primary mr-1"></small>

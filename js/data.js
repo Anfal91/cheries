@@ -1,8 +1,8 @@
 let kitItemData = [{
     id:"scrub",
     name:"Scrub",
-    realPrice:700,
-    price:500,
+    realPrice:599,
+    price:375,
     Image:"img/scrub.png",
     // link:"sexual care kit/sexual-trial-kit.html"
 
@@ -10,48 +10,48 @@ let kitItemData = [{
 {
     id:"libBalm",
     name:"Lip Balm",
-    realPrice:850,
-    price:700,
+    realPrice:699,
+    price:499,
     Image:"img/lip-balm.png",
     // link:"sexual care kit/sexual-essential-kit.html"
 },
 {
     id:"faceWash",
     name:"Face Wash",
-    realPrice:105,
-    price:115,
+    realPrice:599,
+    price:375,
     Image:"img/face-wash.png",
     // link:"sexual care kit/sexual-rapid-kit.html"
 },
 {
     id:"faceSerum",
     name:"Face serum",
-    realPrice:950,
-    price:755,
+    realPrice:799,
+    price:599,
     Image:"img/faceserum.png",
     // link:"sexual care kit/sexual-intense-kit.html"
 },
 {
-    id:"faceMist",
-    name:"Face mist",
-    realPrice:115,
-    price:135,
+    id:"toner",
+    name:"Toner",
+    realPrice:699,
+    price:399,
     Image:"img/facemist.png",
     // link:"sexual care kit/sexual-extensive-kit.html"
 },
 {
-    id:"sunScreen",
-    name:"Sun screen",
-    realPrice:115,
-    price:135,
+    id:"cream",
+    name:"Cream",
+    realPrice:675,
+    price:599,
     Image:"img/sunscreen.png",
     // link:"sexual care kit/sexual-extensive-kit.html"
 },
 {
     id:"faceMaskCharcoal",
     name:"Face mask charcoal",
-    realPrice:115,
-    price:135,
+    realPrice:799,
+    price:399,
     Image:"img/face-mask-charcoal.png",
     // link:"sexual care kit/sexual-extensive-kit.html"
 }]
